@@ -1,0 +1,1855 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.394903623999990,20.559288500099999 ]
+    },
+    "properties": {
+    "FID":0,
+    "AGEB":"2201400010981",
+    "pob_tot":4162,
+    "viv_par_ha":1051,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":40.6,
+    "NoHealthIn":34.7,
+    "DirtFloor":3.1,
+    "NoEd1524":67,
+    "NoWash":33.9,
+    "NoRefri":16,
+    "NoPhone":45.9,
+    "NotRead15":5,
+    "NoEd6_14":3.6,
+    "Regression":4909,
+    "ORIG_FID":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.420087114000000,20.626600972799999 ]
+    },
+    "properties": {
+    "FID":1,
+    "AGEB":"2201400012121",
+    "pob_tot":3273,
+    "viv_par_ha":750,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":41,
+    "NoHealthIn":32,
+    "DirtFloor":5.7,
+    "NoEd1524":61.2,
+    "NoWash":29.3,
+    "NoRefri":11.7,
+    "NoPhone":48.5,
+    "NotRead15":4.7,
+    "NoEd6_14":5.7,
+    "Regression":4977,
+    "ORIG_FID":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.400103636000000,20.558069801999999 ]
+    },
+    "properties": {
+    "FID":2,
+    "AGEB":"2201400012441",
+    "pob_tot":5428,
+    "viv_par_ha":1294,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":42,
+    "NoHealthIn":34.5,
+    "DirtFloor":6.4,
+    "NoEd1524":66.1,
+    "NoWash":28,
+    "NoRefri":12.6,
+    "NoPhone":43.9,
+    "NotRead15":5.1,
+    "NoEd6_14":4.7,
+    "Regression":4907,
+    "ORIG_FID":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.381018217999990,20.582980309300002 ]
+    },
+    "properties": {
+    "FID":3,
+    "AGEB":"2201400012348",
+    "pob_tot":3015,
+    "viv_par_ha":834,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":12.5,
+    "NoHealthIn":24.3,
+    "DirtFloor":0.8,
+    "NoEd1524":26.3,
+    "NoWash":9.5,
+    "NoRefri":1.6,
+    "NoPhone":15.8,
+    "NotRead15":0.9,
+    "NoEd6_14":2.5,
+    "Regression":6465,
+    "ORIG_FID":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.425949171000000,20.640055227800001 ]
+    },
+    "properties": {
+    "FID":4,
+    "AGEB":"2201400010750",
+    "pob_tot":1266,
+    "viv_par_ha":281,
+    "gdo_rezsoc":"Medio",
+    "NoElemEd":49,
+    "NoHealthIn":47.7,
+    "DirtFloor":17.1,
+    "NoEd1524":65.9,
+    "NoWash":44.1,
+    "NoRefri":38.4,
+    "NoPhone":65.1,
+    "NotRead15":4.3,
+    "NoEd6_14":5.3,
+    "Regression":4299,
+    "ORIG_FID":59
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.391500400000000,20.654238303900001 ]
+    },
+    "properties": {
+    "FID":5,
+    "AGEB":"2201400013810",
+    "pob_tot":3067,
+    "viv_par_ha":955,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":9.9,
+    "NoHealthIn":14.1,
+    "DirtFloor":0.5,
+    "NoEd1524":49.7,
+    "NoWash":18.6,
+    "NoRefri":2.8,
+    "NoPhone":60,
+    "NotRead15":0.3,
+    "NoEd6_14":2.4,
+    "Regression":5935,
+    "ORIG_FID":60
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.392812625000000,20.648508077599999 ]
+    },
+    "properties": {
+    "FID":6,
+    "AGEB":"2201400013628",
+    "pob_tot":737,
+    "viv_par_ha":230,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":5.5,
+    "NoHealthIn":18.5,
+    "DirtFloor":0,
+    "NoEd1524":31.8,
+    "NoWash":11.7,
+    "NoRefri":2.6,
+    "NoPhone":46.1,
+    "NotRead15":0,
+    "NoEd6_14":1.9,
+    "Regression":6334,
+    "ORIG_FID":61
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.421813916999990,20.667944474700001 ]
+    },
+    "properties": {
+    "FID":7,
+    "AGEB":"2201400923064",
+    "pob_tot":2429,
+    "viv_par_ha":541,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":48.9,
+    "NoHealthIn":28.4,
+    "DirtFloor":4.4,
+    "NoEd1524":72.4,
+    "NoWash":43.3,
+    "NoRefri":13.5,
+    "NoPhone":67.8,
+    "NotRead15":6.2,
+    "NoEd6_14":2.4,
+    "Regression":4686,
+    "ORIG_FID":66
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.423230688999990,20.663720682299999 ]
+    },
+    "properties": {
+    "FID":8,
+    "AGEB":"2201400923079",
+    "pob_tot":1979,
+    "viv_par_ha":452,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":48.4,
+    "NoHealthIn":22.4,
+    "DirtFloor":4.6,
+    "NoEd1524":73,
+    "NoWash":36.7,
+    "NoRefri":13.9,
+    "NoPhone":74.8,
+    "NotRead15":6.6,
+    "NoEd6_14":4,
+    "Regression":4725,
+    "ORIG_FID":67
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.385112019999990,20.654949933899999 ]
+    },
+    "properties": {
+    "FID":9,
+    "AGEB":"2201401013238",
+    "pob_tot":1630,
+    "viv_par_ha":373,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":49,
+    "NoHealthIn":29.8,
+    "DirtFloor":10.7,
+    "NoEd1524":71.4,
+    "NoWash":37.8,
+    "NoRefri":19.8,
+    "NoPhone":76.9,
+    "NotRead15":8.5,
+    "NoEd6_14":5.4,
+    "Regression":4512,
+    "ORIG_FID":68
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.447250080000000,20.600881493900001 ]
+    },
+    "properties": {
+    "FID":10,
+    "AGEB":"2201401071462",
+    "pob_tot":3177,
+    "viv_par_ha":610,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":53.6,
+    "NoHealthIn":48.6,
+    "DirtFloor":16.4,
+    "NoEd1524":73.3,
+    "NoWash":46.9,
+    "NoRefri":21.6,
+    "NoPhone":75.9,
+    "NotRead15":8.5,
+    "NoEd6_14":4.5,
+    "Regression":4119,
+    "ORIG_FID":70
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445717900000010,20.593976715899998 ]
+    },
+    "properties": {
+    "FID":11,
+    "AGEB":"2201401073543",
+    "pob_tot":2596,
+    "viv_par_ha":518,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":48.6,
+    "NoHealthIn":37.8,
+    "DirtFloor":12.4,
+    "NoEd1524":68,
+    "NoWash":44.6,
+    "NoRefri":20.5,
+    "NoPhone":68.5,
+    "NotRead15":8.3,
+    "NoEd6_14":4.8,
+    "Regression":4461,
+    "ORIG_FID":71
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.424377478000000,20.619843020800001 ]
+    },
+    "properties": {
+    "FID":12,
+    "AGEB":"2201400011265",
+    "pob_tot":1979,
+    "viv_par_ha":543,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":20.3,
+    "NoHealthIn":20.1,
+    "DirtFloor":0.9,
+    "NoEd1524":54.8,
+    "NoWash":16.6,
+    "NoRefri":3.1,
+    "NoPhone":31.7,
+    "NotRead15":1.4,
+    "NoEd6_14":2.8,
+    "Regression":5841,
+    "ORIG_FID":73
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.387761874000010,20.642026341000001 ]
+    },
+    "properties": {
+    "FID":13,
+    "AGEB":"220140101369A",
+    "pob_tot":881,
+    "viv_par_ha":205,
+    "gdo_rezsoc":"Alto",
+    "NoElemEd":62.6,
+    "NoHealthIn":36,
+    "DirtFloor":22.9,
+    "NoEd1524":80.4,
+    "NoWash":59,
+    "NoRefri":40.5,
+    "NoPhone":89.8,
+    "NotRead15":6.5,
+    "NoEd6_14":4.9,
+    "Regression":3963,
+    "ORIG_FID":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.452739773000000,20.737889720100000 ]
+    },
+    "properties": {
+    "FID":14,
+    "AGEB":"2201401083149",
+    "pob_tot":871,
+    "viv_par_ha":214,
+    "gdo_rezsoc":"Alto",
+    "NoElemEd":61.6,
+    "NoHealthIn":27,
+    "DirtFloor":5.6,
+    "NoEd1524":77.1,
+    "NoWash":44.4,
+    "NoRefri":20.1,
+    "NoPhone":86.4,
+    "NotRead15":10.1,
+    "NoEd6_14":7.2,
+    "Regression":4292,
+    "ORIG_FID":111
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.380661090999990,20.650786170800000 ]
+    },
+    "properties": {
+    "FID":15,
+    "AGEB":"2201401013261",
+    "pob_tot":2313,
+    "viv_par_ha":506,
+    "gdo_rezsoc":"Medio",
+    "NoElemEd":54.2,
+    "NoHealthIn":33.7,
+    "DirtFloor":11.5,
+    "NoEd1524":75.7,
+    "NoWash":38.1,
+    "NoRefri":19.4,
+    "NoPhone":81.8,
+    "NotRead15":5.9,
+    "NoEd6_14":6.7,
+    "Regression":4317,
+    "ORIG_FID":112
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.452660349000000,20.522373557800002 ]
+    },
+    "properties": {
+    "FID":16,
+    "AGEB":"2200600170829",
+    "pob_tot":1499,
+    "viv_par_ha":352,
+    "gdo_rezsoc":"Medio",
+    "NoElemEd":40,
+    "NoHealthIn":19.5,
+    "DirtFloor":4.8,
+    "NoEd1524":71.4,
+    "NoWash":34.1,
+    "NoRefri":18.5,
+    "NoPhone":77.6,
+    "NotRead15":4.2,
+    "NoEd6_14":2.8,
+    "Regression":4889,
+    "ORIG_FID":117
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.386643425000000,20.637916009500000 ]
+    },
+    "properties": {
+    "FID":17,
+    "AGEB":"220140001287A",
+    "pob_tot":253,
+    "viv_par_ha":52,
+    "gdo_rezsoc":"Alto",
+    "NoElemEd":56.1,
+    "NoHealthIn":40.7,
+    "DirtFloor":26.9,
+    "NoEd1524":74,
+    "NoWash":61.5,
+    "NoRefri":40.4,
+    "NoPhone":90.4,
+    "NotRead15":12.9,
+    "NoEd6_14":8,
+    "Regression":3910,
+    "ORIG_FID":120
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.392505595000000,20.641005301600000 ]
+    },
+    "properties": {
+    "FID":18,
+    "AGEB":"2201400011994",
+    "pob_tot":441,
+    "viv_par_ha":92,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":48.9,
+    "NoHealthIn":24.5,
+    "DirtFloor":7.6,
+    "NoEd1524":69.4,
+    "NoWash":37,
+    "NoRefri":17.4,
+    "NoPhone":72.8,
+    "NotRead15":5.5,
+    "NoEd6_14":2.9,
+    "Regression":4733,
+    "ORIG_FID":148
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.440260296999990,20.601915515100000 ]
+    },
+    "properties": {
+    "FID":19,
+    "AGEB":"2201400011763",
+    "pob_tot":2413,
+    "viv_par_ha":685,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":10,
+    "NoHealthIn":20.6,
+    "DirtFloor":0.3,
+    "NoEd1524":34.2,
+    "NoWash":9.3,
+    "NoRefri":0.9,
+    "NoPhone":20.7,
+    "NotRead15":0.4,
+    "NoEd6_14":0.9,
+    "Regression":6458,
+    "ORIG_FID":151
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.427408576000000,20.660042516299999 ]
+    },
+    "properties": {
+    "FID":20,
+    "AGEB":"2201400013844",
+    "pob_tot":1531,
+    "viv_par_ha":492,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":2,
+    "NoHealthIn":13.8,
+    "DirtFloor":0,
+    "NoEd1524":27.5,
+    "NoWash":3.3,
+    "NoRefri":0.4,
+    "NoPhone":10.6,
+    "NotRead15":0,
+    "NoEd6_14":0.5,
+    "Regression":6986,
+    "ORIG_FID":172
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.388018237000000,20.650607295200000 ]
+    },
+    "properties": {
+    "FID":21,
+    "AGEB":"2201401013257",
+    "pob_tot":1445,
+    "viv_par_ha":344,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":47.6,
+    "NoHealthIn":34.1,
+    "DirtFloor":10.2,
+    "NoEd1524":62.2,
+    "NoWash":31.7,
+    "NoRefri":16.3,
+    "NoPhone":74.4,
+    "NotRead15":5.9,
+    "NoEd6_14":5.3,
+    "Regression":4621,
+    "ORIG_FID":176
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.450765636000000,20.594745939700001 ]
+    },
+    "properties": {
+    "FID":22,
+    "AGEB":"2201401073539",
+    "pob_tot":3243,
+    "viv_par_ha":819,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":23.2,
+    "NoHealthIn":24.2,
+    "DirtFloor":3.4,
+    "NoEd1524":50.5,
+    "NoWash":20,
+    "NoRefri":6.3,
+    "NoPhone":55.1,
+    "NotRead15":2.8,
+    "NoEd6_14":3.1,
+    "Regression":5524,
+    "ORIG_FID":177
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.451455470000000,20.741032929700001 ]
+    },
+    "properties": {
+    "FID":23,
+    "AGEB":"2201401081335",
+    "pob_tot":5780,
+    "viv_par_ha":1377,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":48,
+    "NoHealthIn":30.3,
+    "DirtFloor":1.5,
+    "NoEd1524":67.1,
+    "NoWash":29.5,
+    "NoRefri":16.1,
+    "NoPhone":62.3,
+    "NotRead15":8.4,
+    "NoEd6_14":5.1,
+    "Regression":4764,
+    "ORIG_FID":178
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.443332088000010,20.741040352900001 ]
+    },
+    "properties": {
+    "FID":24,
+    "AGEB":"2201401083134",
+    "pob_tot":3822,
+    "viv_par_ha":867,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":38.3,
+    "NoHealthIn":35.4,
+    "DirtFloor":1.8,
+    "NoEd1524":55.6,
+    "NoWash":22,
+    "NoRefri":9.1,
+    "NoPhone":57.7,
+    "NotRead15":4.8,
+    "NoEd6_14":5.1,
+    "Regression":5011,
+    "ORIG_FID":179
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445405961000010,20.603594097199998 ]
+    },
+    "properties": {
+    "FID":25,
+    "AGEB":"2201401073115",
+    "pob_tot":83,
+    "viv_par_ha":16,
+    "gdo_rezsoc":"Medio",
+    "NoElemEd":59.2,
+    "NoHealthIn":26.5,
+    "DirtFloor":18.8,
+    "NoEd1524":100,
+    "NoWash":25,
+    "NoRefri":31.3,
+    "NoPhone":81.3,
+    "NotRead15":4.1,
+    "NoEd6_14":7.1,
+    "Regression":4102,
+    "ORIG_FID":180
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.457267508000000,20.744564213000000 ]
+    },
+    "properties": {
+    "FID":26,
+    "AGEB":"2201401083312",
+    "pob_tot":1174,
+    "viv_par_ha":277,
+    "gdo_rezsoc":"Medio",
+    "NoElemEd":49.2,
+    "NoHealthIn":26.9,
+    "DirtFloor":6.1,
+    "NoEd1524":68.1,
+    "NoWash":37.2,
+    "NoRefri":18.4,
+    "NoPhone":85.9,
+    "NotRead15":5.4,
+    "NoEd6_14":3.4,
+    "Regression":4614,
+    "ORIG_FID":181
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.448959687000000,20.733785569500000 ]
+    },
+    "properties": {
+    "FID":27,
+    "AGEB":"2201401083153",
+    "pob_tot":2261,
+    "viv_par_ha":546,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":37,
+    "NoHealthIn":33.7,
+    "DirtFloor":0.5,
+    "NoEd1524":60.4,
+    "NoWash":22.2,
+    "NoRefri":8.1,
+    "NoPhone":61,
+    "NotRead15":5.1,
+    "NoEd6_14":1.3,
+    "Regression":5039,
+    "ORIG_FID":182
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.431947174000000,20.613111830800001 ]
+    },
+    "properties": {
+    "FID":28,
+    "AGEB":"2201400012920",
+    "pob_tot":5771,
+    "viv_par_ha":1219,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":34.7,
+    "NoHealthIn":25.6,
+    "DirtFloor":4.4,
+    "NoEd1524":61,
+    "NoWash":30.7,
+    "NoRefri":11,
+    "NoPhone":45.5,
+    "NotRead15":4.3,
+    "NoEd6_14":3.7,
+    "Regression":5228,
+    "ORIG_FID":194
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.384208890000000,20.588683345800000 ]
+    },
+    "properties": {
+    "FID":29,
+    "AGEB":"2201400012329",
+    "pob_tot":1697,
+    "viv_par_ha":483,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":28.3,
+    "NoHealthIn":30.5,
+    "DirtFloor":0.6,
+    "NoEd1524":54.5,
+    "NoWash":33.5,
+    "NoRefri":9.7,
+    "NoPhone":44.3,
+    "NotRead15":2.8,
+    "NoEd6_14":6.7,
+    "Regression":5292,
+    "ORIG_FID":198
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.381822048999990,20.583105319900000 ]
+    },
+    "properties": {
+    "FID":30,
+    "AGEB":"2201400012333",
+    "pob_tot":547,
+    "viv_par_ha":202,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":3.2,
+    "NoHealthIn":32.7,
+    "DirtFloor":1,
+    "NoEd1524":35.5,
+    "NoWash":19.8,
+    "NoRefri":0,
+    "NoPhone":26.7,
+    "NotRead15":0,
+    "NoEd6_14":0,
+    "Regression":6185,
+    "ORIG_FID":199
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.389580692000000,20.645710865700000 ]
+    },
+    "properties": {
+    "FID":31,
+    "AGEB":"2201401013685",
+    "pob_tot":604,
+    "viv_par_ha":134,
+    "gdo_rezsoc":"Medio",
+    "NoElemEd":58.8,
+    "NoHealthIn":33.9,
+    "DirtFloor":20.9,
+    "NoEd1524":72.9,
+    "NoWash":37.3,
+    "NoRefri":24.6,
+    "NoPhone":76.9,
+    "NotRead15":6.1,
+    "NoEd6_14":9.2,
+    "Regression":4228,
+    "ORIG_FID":211
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.437708254000000,20.544701767399999 ]
+    },
+    "properties": {
+    "FID":32,
+    "AGEB":"220060001002A",
+    "pob_tot":8879,
+    "viv_par_ha":2150,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":23.3,
+    "NoHealthIn":28.9,
+    "DirtFloor":4.9,
+    "NoEd1524":40.6,
+    "NoWash":15.3,
+    "NoRefri":4.7,
+    "NoPhone":28.6,
+    "NotRead15":3.2,
+    "NoEd6_14":2.4,
+    "Regression":5806,
+    "ORIG_FID":215
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.439816617999990,20.535961734899999 ]
+    },
+    "properties": {
+    "FID":33,
+    "AGEB":"2200600010034",
+    "pob_tot":3320,
+    "viv_par_ha":703,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":32.2,
+    "NoHealthIn":29.8,
+    "DirtFloor":3.8,
+    "NoEd1524":54,
+    "NoWash":22.2,
+    "NoRefri":8.1,
+    "NoPhone":41.1,
+    "NotRead15":4.7,
+    "NoEd6_14":2.2,
+    "Regression":5363,
+    "ORIG_FID":216
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.438750212000000,20.521320856700001 ]
+    },
+    "properties": {
+    "FID":34,
+    "AGEB":"2200600010087",
+    "pob_tot":4263,
+    "viv_par_ha":917,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":37.7,
+    "NoHealthIn":26.3,
+    "DirtFloor":3.1,
+    "NoEd1524":62.8,
+    "NoWash":23.6,
+    "NoRefri":8.5,
+    "NoPhone":48.9,
+    "NotRead15":4.7,
+    "NoEd6_14":3.5,
+    "Regression":5171,
+    "ORIG_FID":217
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.455601064000010,20.532945594200001 ]
+    },
+    "properties": {
+    "FID":35,
+    "AGEB":"2200600010104",
+    "pob_tot":45,
+    "viv_par_ha":12,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":36.7,
+    "NoHealthIn":17.8,
+    "DirtFloor":0,
+    "NoEd1524":100,
+    "NoWash":50,
+    "NoRefri":8.3,
+    "NoPhone":58.3,
+    "NotRead15":0,
+    "NoEd6_14":12.5,
+    "Regression":4665,
+    "ORIG_FID":218
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.442626182000000,20.527387162099998 ]
+    },
+    "properties": {
+    "FID":36,
+    "AGEB":"2200600010195",
+    "pob_tot":3297,
+    "viv_par_ha":679,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":34.6,
+    "NoHealthIn":32.4,
+    "DirtFloor":1.2,
+    "NoEd1524":59.3,
+    "NoWash":22.5,
+    "NoRefri":7.7,
+    "NoPhone":43.3,
+    "NotRead15":4.8,
+    "NoEd6_14":2,
+    "Regression":5226,
+    "ORIG_FID":221
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.444886869000000,20.522035175999999 ]
+    },
+    "properties": {
+    "FID":37,
+    "AGEB":"2200600010208",
+    "pob_tot":3175,
+    "viv_par_ha":618,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":39.6,
+    "NoHealthIn":29,
+    "DirtFloor":4.2,
+    "NoEd1524":65.1,
+    "NoWash":27.5,
+    "NoRefri":10.4,
+    "NoPhone":54.4,
+    "NotRead15":5.7,
+    "NoEd6_14":2.9,
+    "Regression":5008,
+    "ORIG_FID":222
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.391768248999990,20.564876380499999 ]
+    },
+    "properties": {
+    "FID":38,
+    "AGEB":"2201400010642",
+    "pob_tot":4439,
+    "viv_par_ha":1001,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":43.2,
+    "NoHealthIn":36.1,
+    "DirtFloor":1.4,
+    "NoEd1524":66.3,
+    "NoWash":33.6,
+    "NoRefri":15.2,
+    "NoPhone":45.5,
+    "NotRead15":7.4,
+    "NoEd6_14":2.7,
+    "Regression":4880,
+    "ORIG_FID":235
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.440525765000000,20.737660288699999 ]
+    },
+    "properties": {
+    "FID":39,
+    "AGEB":"2201401083168",
+    "pob_tot":322,
+    "viv_par_ha":75,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":43,
+    "NoHealthIn":38.2,
+    "DirtFloor":0,
+    "NoEd1524":63.6,
+    "NoWash":24,
+    "NoRefri":13.3,
+    "NoPhone":64,
+    "NotRead15":4.8,
+    "NoEd6_14":2.9,
+    "Regression":4801,
+    "ORIG_FID":240
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.393208048999990,20.568608662700001 ]
+    },
+    "properties": {
+    "FID":40,
+    "AGEB":"2201400010638",
+    "pob_tot":3924,
+    "viv_par_ha":844,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":43.8,
+    "NoHealthIn":35.3,
+    "DirtFloor":1.5,
+    "NoEd1524":63.7,
+    "NoWash":28.3,
+    "NoRefri":12.7,
+    "NoPhone":40.9,
+    "NotRead15":6.6,
+    "NoEd6_14":2.8,
+    "Regression":4977,
+    "ORIG_FID":243
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.379785080999990,20.591870555500002 ]
+    },
+    "properties": {
+    "FID":41,
+    "AGEB":"2201400010430",
+    "pob_tot":3427,
+    "viv_par_ha":879,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":28.5,
+    "NoHealthIn":32.8,
+    "DirtFloor":1.9,
+    "NoEd1524":51.8,
+    "NoWash":29.2,
+    "NoRefri":12.3,
+    "NoPhone":39.1,
+    "NotRead15":2.8,
+    "NoEd6_14":3.5,
+    "Regression":5370,
+    "ORIG_FID":247
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.377471224999990,20.588382407099999 ]
+    },
+    "properties": {
+    "FID":42,
+    "AGEB":"2201400010445",
+    "pob_tot":3305,
+    "viv_par_ha":847,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":33.4,
+    "NoHealthIn":32.7,
+    "DirtFloor":1.4,
+    "NoEd1524":58.5,
+    "NoWash":34.5,
+    "NoRefri":17.5,
+    "NoPhone":51.9,
+    "NotRead15":4.1,
+    "NoEd6_14":5.9,
+    "Regression":5059,
+    "ORIG_FID":248
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.375674539000000,20.583282668100001 ]
+    },
+    "properties": {
+    "FID":43,
+    "AGEB":"2201400011439",
+    "pob_tot":3287,
+    "viv_par_ha":863,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":24.3,
+    "NoHealthIn":22.9,
+    "DirtFloor":2,
+    "NoEd1524":45.5,
+    "NoWash":11.7,
+    "NoRefri":2.4,
+    "NoPhone":19.6,
+    "NotRead15":1.6,
+    "NoEd6_14":2.2,
+    "Regression":5989,
+    "ORIG_FID":259
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.435559422000000,20.519503933599999 ]
+    },
+    "properties": {
+    "FID":44,
+    "AGEB":"2200600010265",
+    "pob_tot":55,
+    "viv_par_ha":14,
+    "gdo_rezsoc":"Medio",
+    "NoElemEd":42.5,
+    "NoHealthIn":21.8,
+    "DirtFloor":7.1,
+    "NoEd1524":63.6,
+    "NoWash":21.4,
+    "NoRefri":0,
+    "NoPhone":64.3,
+    "NotRead15":2.5,
+    "NoEd6_14":0,
+    "Regression":5136,
+    "ORIG_FID":269
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.448938724000000,20.538972927600000 ]
+    },
+    "properties": {
+    "FID":45,
+    "AGEB":"2200600010778",
+    "pob_tot":1480,
+    "viv_par_ha":535,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":6.7,
+    "NoHealthIn":23.3,
+    "DirtFloor":1.3,
+    "NoEd1524":31.3,
+    "NoWash":10.5,
+    "NoRefri":1.1,
+    "NoPhone":34.6,
+    "NotRead15":0.1,
+    "NoEd6_14":1.3,
+    "Regression":6335,
+    "ORIG_FID":275
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.434346285999990,20.533999076400001 ]
+    },
+    "properties": {
+    "FID":46,
+    "AGEB":"2200600010157",
+    "pob_tot":1436,
+    "viv_par_ha":386,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":11.8,
+    "NoHealthIn":20.8,
+    "DirtFloor":0.8,
+    "NoEd1524":32.9,
+    "NoWash":7,
+    "NoRefri":2.1,
+    "NoPhone":17.1,
+    "NotRead15":1.2,
+    "NoEd6_14":0.4,
+    "Regression":6485,
+    "ORIG_FID":282
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.454873355999990,20.526263283500001 ]
+    },
+    "properties": {
+    "FID":47,
+    "AGEB":"2200600170797",
+    "pob_tot":1477,
+    "viv_par_ha":389,
+    "gdo_rezsoc":"Medio",
+    "NoElemEd":26,
+    "NoHealthIn":20,
+    "DirtFloor":2.8,
+    "NoEd1524":64.3,
+    "NoWash":22.4,
+    "NoRefri":7.7,
+    "NoPhone":62.5,
+    "NotRead15":1.9,
+    "NoEd6_14":3.4,
+    "Regression":5326,
+    "ORIG_FID":284
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.450642837999990,20.526089361299999 ]
+    },
+    "properties": {
+    "FID":48,
+    "AGEB":"220060017080A",
+    "pob_tot":3435,
+    "viv_par_ha":689,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":42.3,
+    "NoHealthIn":27.5,
+    "DirtFloor":3.3,
+    "NoEd1524":68.1,
+    "NoWash":25.8,
+    "NoRefri":9.1,
+    "NoPhone":63.1,
+    "NotRead15":5.7,
+    "NoEd6_14":3.8,
+    "Regression":4906,
+    "ORIG_FID":285
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.438755017000010,20.744464757500001 ]
+    },
+    "properties": {
+    "FID":49,
+    "AGEB":"220140108312A",
+    "pob_tot":209,
+    "viv_par_ha":43,
+    "gdo_rezsoc":"Medio",
+    "NoElemEd":61.5,
+    "NoHealthIn":29.7,
+    "DirtFloor":11.6,
+    "NoEd1524":88.9,
+    "NoWash":32.6,
+    "NoRefri":23.3,
+    "NoPhone":95.3,
+    "NotRead15":14.7,
+    "NoEd6_14":3.8,
+    "Regression":4080,
+    "ORIG_FID":291
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.395146131000000,20.572426318600002 ]
+    },
+    "properties": {
+    "FID":50,
+    "AGEB":"2201400010572",
+    "pob_tot":3833,
+    "viv_par_ha":895,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":38.8,
+    "NoHealthIn":34,
+    "DirtFloor":1.3,
+    "NoEd1524":62.5,
+    "NoWash":27.4,
+    "NoRefri":11.4,
+    "NoPhone":37.3,
+    "NotRead15":5.6,
+    "NoEd6_14":5,
+    "Regression":5078,
+    "ORIG_FID":310
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.389240129000000,20.574271527200001 ]
+    },
+    "properties": {
+    "FID":51,
+    "AGEB":"2201400010587",
+    "pob_tot":3118,
+    "viv_par_ha":811,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":32.7,
+    "NoHealthIn":32.3,
+    "DirtFloor":0.7,
+    "NoEd1524":59.8,
+    "NoWash":26.4,
+    "NoRefri":9.7,
+    "NoPhone":41.4,
+    "NotRead15":3.4,
+    "NoEd6_14":3.3,
+    "Regression":5234,
+    "ORIG_FID":312
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.388501773000000,20.569950363600000 ]
+    },
+    "properties": {
+    "FID":52,
+    "AGEB":"2201400010657",
+    "pob_tot":3404,
+    "viv_par_ha":695,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":44.8,
+    "NoHealthIn":32.6,
+    "DirtFloor":1.9,
+    "NoEd1524":70.2,
+    "NoWash":28.3,
+    "NoRefri":14.2,
+    "NoPhone":43,
+    "NotRead15":7.8,
+    "NoEd6_14":5.4,
+    "Regression":4867,
+    "ORIG_FID":313
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.397892560000000,20.568360984000002 ]
+    },
+    "properties": {
+    "FID":53,
+    "AGEB":"2201400010888",
+    "pob_tot":3682,
+    "viv_par_ha":878,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":41.6,
+    "NoHealthIn":31,
+    "DirtFloor":1.7,
+    "NoEd1524":63.9,
+    "NoWash":28,
+    "NoRefri":12.5,
+    "NoPhone":40.4,
+    "NotRead15":5.4,
+    "NoEd6_14":3.1,
+    "Regression":5083,
+    "ORIG_FID":317
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.385072771000000,20.567751066600000 ]
+    },
+    "properties": {
+    "FID":54,
+    "AGEB":"2201400010892",
+    "pob_tot":3850,
+    "viv_par_ha":913,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":33.8,
+    "NoHealthIn":35.3,
+    "DirtFloor":0.3,
+    "NoEd1524":58.9,
+    "NoWash":23.5,
+    "NoRefri":10.6,
+    "NoPhone":33.8,
+    "NotRead15":3.2,
+    "NoEd6_14":3.3,
+    "Regression":5249,
+    "ORIG_FID":318
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.401569303000000,20.568392126399999 ]
+    },
+    "properties": {
+    "FID":55,
+    "AGEB":"2201400010873",
+    "pob_tot":1039,
+    "viv_par_ha":232,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":37.5,
+    "NoHealthIn":29.2,
+    "DirtFloor":5.2,
+    "NoEd1524":72.6,
+    "NoWash":30.2,
+    "NoRefri":11.6,
+    "NoPhone":41.8,
+    "NotRead15":5.7,
+    "NoEd6_14":5.4,
+    "Regression":4976,
+    "ORIG_FID":319
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.399146026000000,20.564081022600000 ]
+    },
+    "properties": {
+    "FID":56,
+    "AGEB":"2201400010924",
+    "pob_tot":4864,
+    "viv_par_ha":1014,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":42.2,
+    "NoHealthIn":34.8,
+    "DirtFloor":1.4,
+    "NoEd1524":65.8,
+    "NoWash":28,
+    "NoRefri":10.5,
+    "NoPhone":40.4,
+    "NotRead15":4.7,
+    "NoEd6_14":2.6,
+    "Regression":5006,
+    "ORIG_FID":321
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.390421340000000,20.560933447600000 ]
+    },
+    "properties": {
+    "FID":57,
+    "AGEB":"2201400010996",
+    "pob_tot":4761,
+    "viv_par_ha":1029,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":43.5,
+    "NoHealthIn":35.3,
+    "DirtFloor":1,
+    "NoEd1524":69.5,
+    "NoWash":27.2,
+    "NoRefri":12.1,
+    "NoPhone":43.5,
+    "NotRead15":5.5,
+    "NoEd6_14":4.8,
+    "Regression":4879,
+    "ORIG_FID":322
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.419043819000000,20.617860261200001 ]
+    },
+    "properties": {
+    "FID":58,
+    "AGEB":"220140001166A",
+    "pob_tot":3930,
+    "viv_par_ha":856,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":44.1,
+    "NoHealthIn":29.5,
+    "DirtFloor":2.9,
+    "NoEd1524":68.2,
+    "NoWash":33.1,
+    "NoRefri":12.3,
+    "NoPhone":58.9,
+    "NotRead15":5.2,
+    "NoEd6_14":3.3,
+    "Regression":4867,
+    "ORIG_FID":332
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.437731750000000,20.611558726700000 ]
+    },
+    "properties": {
+    "FID":59,
+    "AGEB":"2201400011706",
+    "pob_tot":2567,
+    "viv_par_ha":640,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":19.2,
+    "NoHealthIn":21.8,
+    "DirtFloor":1.3,
+    "NoEd1524":55.4,
+    "NoWash":17.8,
+    "NoRefri":4.7,
+    "NoPhone":31.1,
+    "NotRead15":1,
+    "NoEd6_14":4.2,
+    "Regression":5784,
+    "ORIG_FID":334
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.436102515000000,20.610386839800000 ]
+    },
+    "properties": {
+    "FID":60,
+    "AGEB":"2201400011710",
+    "pob_tot":2401,
+    "viv_par_ha":582,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":20.3,
+    "NoHealthIn":22.6,
+    "DirtFloor":0.7,
+    "NoEd1524":55.1,
+    "NoWash":17.7,
+    "NoRefri":2.4,
+    "NoPhone":24.4,
+    "NotRead15":1.1,
+    "NoEd6_14":2.1,
+    "Regression":5865,
+    "ORIG_FID":337
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.390063080999990,20.557195727300002 ]
+    },
+    "properties": {
+    "FID":61,
+    "AGEB":"2201400011903",
+    "pob_tot":2730,
+    "viv_par_ha":577,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":33.8,
+    "NoHealthIn":30.4,
+    "DirtFloor":1.9,
+    "NoEd1524":58.9,
+    "NoWash":23.4,
+    "NoRefri":8.3,
+    "NoPhone":39.2,
+    "NotRead15":3.3,
+    "NoEd6_14":4.4,
+    "Regression":5272,
+    "ORIG_FID":338
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.417632318000000,20.625241777700001 ]
+    },
+    "properties": {
+    "FID":62,
+    "AGEB":"2201400012136",
+    "pob_tot":4688,
+    "viv_par_ha":1258,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":20.5,
+    "NoHealthIn":24.6,
+    "DirtFloor":1.2,
+    "NoEd1524":49.6,
+    "NoWash":20.8,
+    "NoRefri":5.5,
+    "NoPhone":39.1,
+    "NotRead15":1.3,
+    "NoEd6_14":3.1,
+    "Regression":5727,
+    "ORIG_FID":346
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.386201856000000,20.559392482800000 ]
+    },
+    "properties": {
+    "FID":63,
+    "AGEB":"2201400012992",
+    "pob_tot":2646,
+    "viv_par_ha":635,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":20.2,
+    "NoHealthIn":28.2,
+    "DirtFloor":0.3,
+    "NoEd1524":46,
+    "NoWash":15.7,
+    "NoRefri":3.2,
+    "NoPhone":22.7,
+    "NotRead15":2,
+    "NoEd6_14":3.5,
+    "Regression":5870,
+    "ORIG_FID":355
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.387055294000010,20.564541257999998 ]
+    },
+    "properties": {
+    "FID":64,
+    "AGEB":"2201400012988",
+    "pob_tot":3811,
+    "viv_par_ha":851,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":46.4,
+    "NoHealthIn":35.6,
+    "DirtFloor":1.5,
+    "NoEd1524":71.5,
+    "NoWash":34.3,
+    "NoRefri":14.9,
+    "NoPhone":46.5,
+    "NotRead15":6.3,
+    "NoEd6_14":5,
+    "Regression":4759,
+    "ORIG_FID":358
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.441721841000000,20.735426929900001 ]
+    },
+    "properties": {
+    "FID":65,
+    "AGEB":"2201401082526",
+    "pob_tot":116,
+    "viv_par_ha":25,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":32,
+    "NoHealthIn":31.9,
+    "DirtFloor":0,
+    "NoEd1524":75,
+    "NoWash":16,
+    "NoRefri":12,
+    "NoPhone":68,
+    "NotRead15":1.3,
+    "NoEd6_14":0,
+    "Regression":4957,
+    "ORIG_FID":370
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.454321175000000,20.738965536399999 ]
+    },
+    "properties": {
+    "FID":66,
+    "AGEB":"2201401082579",
+    "pob_tot":52,
+    "viv_par_ha":8,
+    "gdo_rezsoc":"Medio",
+    "NoElemEd":40,
+    "NoHealthIn":26.9,
+    "DirtFloor":0,
+    "NoEd1524":72.7,
+    "NoWash":12.5,
+    "NoRefri":25,
+    "NoPhone":75,
+    "NotRead15":10,
+    "NoEd6_14":0,
+    "Regression":4851,
+    "ORIG_FID":374
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.383654746999990,20.648023235699998 ]
+    },
+    "properties": {
+    "FID":67,
+    "AGEB":"2201401013276",
+    "pob_tot":1503,
+    "viv_par_ha":347,
+    "gdo_rezsoc":"Medio",
+    "NoElemEd":51.2,
+    "NoHealthIn":32.3,
+    "DirtFloor":14.1,
+    "NoEd1524":64.1,
+    "NoWash":38.9,
+    "NoRefri":21.6,
+    "NoPhone":76.1,
+    "NotRead15":6,
+    "NoEd6_14":5.6,
+    "Regression":4518,
+    "ORIG_FID":377
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.383079660000010,20.645366806300000 ]
+    },
+    "properties": {
+    "FID":68,
+    "AGEB":"2201401013914",
+    "pob_tot":1227,
+    "viv_par_ha":285,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":41.6,
+    "NoHealthIn":24.9,
+    "DirtFloor":1.1,
+    "NoEd1524":74.1,
+    "NoWash":49.1,
+    "NoRefri":22.1,
+    "NoPhone":95.1,
+    "NotRead15":3.3,
+    "NoEd6_14":3.9,
+    "Regression":4593,
+    "ORIG_FID":378
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.376683643000010,20.658033916600001 ]
+    },
+    "properties": {
+    "FID":69,
+    "AGEB":"2201401013242",
+    "pob_tot":2210,
+    "viv_par_ha":485,
+    "gdo_rezsoc":"Medio",
+    "NoElemEd":46.5,
+    "NoHealthIn":28.6,
+    "DirtFloor":8.2,
+    "NoEd1524":64.9,
+    "NoWash":34.4,
+    "NoRefri":20.8,
+    "NoPhone":70.7,
+    "NotRead15":5.6,
+    "NoEd6_14":3.9,
+    "Regression":4736,
+    "ORIG_FID":379
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.385657157000000,20.644855210399999 ]
+    },
+    "properties": {
+    "FID":70,
+    "AGEB":"2201401013280",
+    "pob_tot":2281,
+    "viv_par_ha":503,
+    "gdo_rezsoc":"Medio",
+    "NoElemEd":56.3,
+    "NoHealthIn":32.3,
+    "DirtFloor":17.1,
+    "NoEd1524":78.1,
+    "NoWash":43.1,
+    "NoRefri":27.4,
+    "NoPhone":85.1,
+    "NotRead15":6,
+    "NoEd6_14":4.9,
+    "Regression":4229,
+    "ORIG_FID":380
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.444110961000010,20.746905976699999 ]
+    },
+    "properties": {
+    "FID":71,
+    "AGEB":"2201401082494",
+    "pob_tot":2300,
+    "viv_par_ha":521,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":43.7,
+    "NoHealthIn":37,
+    "DirtFloor":4.2,
+    "NoEd1524":63.2,
+    "NoWash":27.4,
+    "NoRefri":13.6,
+    "NoPhone":61.6,
+    "NotRead15":6,
+    "NoEd6_14":3.9,
+    "Regression":4773,
+    "ORIG_FID":381
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.438730199000010,20.741022265300000 ]
+    },
+    "properties": {
+    "FID":72,
+    "AGEB":"2201401082511",
+    "pob_tot":29,
+    "viv_par_ha":8,
+    "gdo_rezsoc":"Alto",
+    "NoElemEd":81,
+    "NoHealthIn":17.2,
+    "DirtFloor":0,
+    "NoEd1524":40,
+    "NoWash":12.5,
+    "NoRefri":0,
+    "NoPhone":100,
+    "NotRead15":14.3,
+    "NoEd6_14":0,
+    "Regression":4808,
+    "ORIG_FID":382
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.451147126000000,20.746899294999999 ]
+    },
+    "properties": {
+    "FID":73,
+    "AGEB":"2201401083327",
+    "pob_tot":1572,
+    "viv_par_ha":367,
+    "gdo_rezsoc":"Bajo",
+    "NoElemEd":33,
+    "NoHealthIn":30,
+    "DirtFloor":0.8,
+    "NoEd1524":60.4,
+    "NoWash":20.4,
+    "NoRefri":7.9,
+    "NoPhone":55,
+    "NotRead15":2.9,
+    "NoEd6_14":5,
+    "Regression":5159,
+    "ORIG_FID":383
+    }
+  }
+]
+}
